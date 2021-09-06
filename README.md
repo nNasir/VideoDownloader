@@ -17,7 +17,7 @@ Download's YouTube videos and can convert from one format to another
 
 I downloaded ffmpeg windows build by gyan.dev (https://www.gyan.dev/ffmpeg/builds/), 
 
-unzipped it, added the path of ffmpeg/bin to envirnment variables 
+unzipped it and added the path of ffmpeg/bin to environment variables 
 
 ### Script
 Add the links of the videos to be downloaded to videoURLs.txt file, one link per line. 
