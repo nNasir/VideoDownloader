@@ -4,9 +4,20 @@ Download's YouTube videos and can convert from one format to another
 ## Downloading Youtube Videos
 
 ### Requirements
-Use following install required python libraries 
+
+1)```Python 3```
+
+2)Use following install required python libraries 
 
 ```pip install -r requirements.txt```
+
+3)If downloading mp3 files or converting format, download  ```ffmpeg``` 
+
+(https://ffmpeg.org/download.html)
+
+I downloaded ffmpeg windows build by gyan.dev (https://www.gyan.dev/ffmpeg/builds/), 
+
+unzipped it, added the path of ffmpeg/bin to envirnment variables 
 
 ### Script
 Add the links of the videos to be downloaded to videoURLs.txt file, one link per line. 
